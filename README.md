@@ -1,7 +1,7 @@
 # ParkIt_User
 
-<img src="https://user-images.githubusercontent.com/43718012/141632101-c0134477-3c70-4462-8883-4c234c4bdc77.jpg" width = "300"> <img src="https://user-images.githubusercontent.com/43718012/141632143-591ef8ad-2c93-44ef-8f14-5f28795f5030.jpg" width = "300">
-
+<img src="https://user-images.githubusercontent.com/43718012/141632101-c0134477-3c70-4462-8883-4c234c4bdc77.jpg" width = "300"> 
+<img src="https://user-images.githubusercontent.com/43718012/141632143-591ef8ad-2c93-44ef-8f14-5f28795f5030.jpg" width = "300">
 <img src="https://user-images.githubusercontent.com/43718012/141632155-b59e723f-b05a-47cd-aeaa-f17b82f09783.jpg" width = "300">
 
 # Features
